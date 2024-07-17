@@ -8,6 +8,6 @@ public class PolyDemo6 {
             void funA(int b)
             {
             	
-            }/////method overloading kaadhu method duplicate
+            }/////method overloading kaadhu method duplicate ....it is translate
 }
 }
